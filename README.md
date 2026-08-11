@@ -1,2 +1,1 @@
-# SQL-Practice
-30-Day SQL Mastery
+# SQL- 4Stat Consults Project
