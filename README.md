@@ -1,4 +1,4 @@
-# SQL Practice Log — 30-Day SQL Mastery
+#  Daily log 4Stat-Consults Project for 30 days
  
 Daily SQL practice as part of a structured 30-day plan to reach interview-ready SQL fluency.
  
