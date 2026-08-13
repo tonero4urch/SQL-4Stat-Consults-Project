@@ -1,4 +1,4 @@
--- Day02 excercises
+-- Day02 exercises
 
 -- 1.	Top 3 highest orders by amount.
 SELECT *
