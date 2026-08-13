@@ -1,3 +1,5 @@
+-- Day01 Exercises
+
 CREATE TABLE customers (
   customer_id INTEGER PRIMARY KEY,
   customer_name TEXT,
