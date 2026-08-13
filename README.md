@@ -14,10 +14,3 @@ Day02.sql file contains that day's practice queries, commented with the business
 13/08/2026
 - [X] Day 3 — Aggregation: GROUP BY, HAVING
 
- 
-## Structure
-Each `dayXX.sql` file .
- 
-## About
-Building toward two full portfolio projects (Week 3) applying SQL to healthcare/consumer-behavior and time-series datasets.
-
